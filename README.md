@@ -1,4 +1,4 @@
-[![MasterHead](https://droneschoolindia.com/static/media/coding-gif.c4464e10.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.gifer.com/fetch/w300-preview/48/483de618ca798549786d3c1e896e1de0.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Thomas Devlamminck</h1>
 <h3 align="center">A passionate developer from Belgium</h3>
 
