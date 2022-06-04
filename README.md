@@ -1,9 +1,6 @@
-[![MasterHead](https://i.gifer.com/fetch/w300-preview/48/483de618ca798549786d3c1e896e1de0.gif)](https://rishavchanda.io)
+![MasterHead](https://thumbs.gfycat.com/AgonizingEvenHoiho-max-1mb.gif)
 <h1 align="center">Hi 👋, I'm Thomas Devlamminck</h1>
 <h3 align="center">A passionate developer from Belgium</h3>
-
-
-<img align="right" alt="Coding" width="400" src="https://droneschoolindia.com/static/media/coding-gif.c4464e10.gif">
 
 
 <p align="left">
