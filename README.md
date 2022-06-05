@@ -25,4 +25,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thomasdevl&show_icons=true&locale=en" alt="thomasdevl" /></p>
 
+<h3 align="left">Certification:</h3>
+
+<a href="https://user-images.githubusercontent.com/91684310/172067320-2dbf5473-1657-4e40-968b-993bc9e10272.png" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91684310/172067320-2dbf5473-1657-4e40-968b-993bc9e10272.png" alt="arduino" width="300" height="200"/> </a> </p>
+
+
 
