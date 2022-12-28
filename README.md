@@ -55,7 +55,7 @@
 </div>  
   
   <div align="center">
-            <a href="https://paypal.me/thomasdevl" target="_blank" style="display: inline-block;">
+            <a href="https://paypal.me/thomasdevlam" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
                     align="center"
@@ -67,3 +67,7 @@
                     align="center"
                 />
             </a></div>
+  
+  
+
+- 🌱 I’m currently learning Webdev and Java  
