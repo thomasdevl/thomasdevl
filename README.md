@@ -67,7 +67,3 @@
                     align="center"
                 />
             </a></div>
-  
-  
-
-- 🌱 I’m currently learning Webdev and Java  
