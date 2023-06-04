@@ -5,15 +5,7 @@
 
 ### <div align="center">I'm Thomas Devlamminck, a computer science student @UCLouvain</div>  
   
-
-- 🌱 I’m currently learning Webdev and Java  
-  
-
-- ❓ Ask me about anything related to Python or related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+visit: https://unouune.com
 
 <br/>  
 
