@@ -5,35 +5,10 @@
 ### <div align="center">I'm Thomas Devlamminck, a computer science student @UCLouvain</div>  
 <div align="center"> <a href="https://unouune.com" class="shake">CRAZY WEBSITE</a> </div>
 
-<style>
-    .shake {
-        display: inline-block;
-        animation: shake 0.5s infinite;
-    }
 
-    @keyframes shake {
-        0% { transform: translate(1px, 1px) rotate(1deg); }
-        10% { transform: translate(-1px, -2px) rotate(-1deg); }
-        20% { transform: translate(-3px, 0px) rotate(1deg); }
-        30% { transform: translate(3px, 2px) rotate(0deg); }
-        40% { transform: translate(1px, -1px) rotate(1deg); }
-        50% { transform: translate(-1px, 2px) rotate(-1deg); }
-        60% { transform: translate(-3px, 1px) rotate(0deg); }
-        70% { transform: translate(3px, 1px) rotate(-1deg); }
-        80% { transform: translate(-1px, -1px) rotate(1deg); }
-        90% { transform: translate(1px, 2px) rotate(0deg); }
-        100% { transform: translate(1px, -2px) rotate(-1deg); }
-    }
-</style>
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
 
 
-
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thomasdevl&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-
-## Connect with me  
 <div align="center">
 <a href="https://github.com/thomasdevl" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -49,17 +24,4 @@
 </a>  
 </div>  
   
-<div align="center">
-  <a href="https://paypal.me/thomasdevlam" target="_blank" style="display: inline-block;">
-  <img
-    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-    align="center"
-  />
-  </a>
-  <a href="https://www.buymeacoffee.com/thomasdevl" target="_blank" style="display: inline-block;">
-  <img
-    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-    align="center"
-  />
-  </a>
-</div>
+
