@@ -1,34 +1,37 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/91684310/231422036-6928be1a-acfa-49e6-b4cf-1213d8bfc45c.gif" align="center" style="width: 100%" />
 </div>  
-  
 
 ### <div align="center">I'm Thomas Devlamminck, a computer science student @UCLouvain</div>  
-  
-visit: https://unouune.com
+<div align="center"> <a href="https://unouune.com" class="shake">CRAZY WEBSITE</a> </div>
 
-<br/>  
+<style>
+    .shake {
+        display: inline-block;
+        animation: shake 0.5s infinite;
+    }
+
+    @keyframes shake {
+        0% { transform: translate(1px, 1px) rotate(1deg); }
+        10% { transform: translate(-1px, -2px) rotate(-1deg); }
+        20% { transform: translate(-3px, 0px) rotate(1deg); }
+        30% { transform: translate(3px, 2px) rotate(0deg); }
+        40% { transform: translate(1px, -1px) rotate(1deg); }
+        50% { transform: translate(-1px, 2px) rotate(-1deg); }
+        60% { transform: translate(-3px, 1px) rotate(0deg); }
+        70% { transform: translate(3px, 1px) rotate(-1deg); }
+        80% { transform: translate(-1px, -1px) rotate(1deg); }
+        90% { transform: translate(1px, 2px) rotate(0deg); }
+        100% { transform: translate(1px, -2px) rotate(-1deg); }
+    }
+</style>
 
 
 
-</td><td valign="top" width="33%">
-
-
-<br/>   
 
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thomasdevl&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-
-<br/>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=thomasdevl&&style=flat-square" align="center" />
-</div>  
-  
-<br/>  
 
 ## Connect with me  
 <div align="center">
@@ -46,16 +49,17 @@ visit: https://unouune.com
 </a>  
 </div>  
   
-  <div align="center">
-            <a href="https://paypal.me/thomasdevlam" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/thomasdevl" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+<div align="center">
+  <a href="https://paypal.me/thomasdevlam" target="_blank" style="display: inline-block;">
+  <img
+    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+    align="center"
+  />
+  </a>
+  <a href="https://www.buymeacoffee.com/thomasdevl" target="_blank" style="display: inline-block;">
+  <img
+    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+    align="center"
+  />
+  </a>
+</div>
