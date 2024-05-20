@@ -2,6 +2,7 @@
   <img src="https://user-images.githubusercontent.com/91684310/231422036-6928be1a-acfa-49e6-b4cf-1213d8bfc45c.gif" align="center" style="width: 100%" />
 </div>  
 
+# <div align="center"> Hello 👋</div>  
 ### <div align="center">I'm Thomas Devlamminck, a computer science student @UCLouvain</div>  
 <div align="center"> <a href="https://unouune.com" class="shake">CRAZY WEBSITE</a> </div>
 
