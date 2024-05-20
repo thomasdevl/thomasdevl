@@ -4,7 +4,7 @@
 
 # <div align="center"> Hello 👋</div>  
 ### <div align="center">I'm Thomas Devlamminck, a computer science student @UCLouvain</div>  
-<div align="center"> <a href="https://unouune.com" class="shake">CRAZY WEBSITE</a> </div>
+<div align="center"> <a href="https://unouune.com" target="_blank" >CRAZY WEBSITE</a> </div>
 
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
