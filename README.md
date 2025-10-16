@@ -1,6 +1,9 @@
 # 💫 About Me:
 👋 Hi there!<br>I’m currently in my final year of a Master’s in Computer Science at KU Leuven.<br>My thesis focuses on multi-target forecasting in time series with missing or noisy data.<br>I’m passionate about Machine Learning, Data Mining, and related fields that explore how data can drive intelligent systems.
 
+Outside of my studies, I enjoy creative coding and experimenting with generative audio reactive visuals.
+I also make YouTube videos about TouchDesigner, where I share my experiments and creative projects. 
+Check out my youtube channel if this peeks your interest! 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-devlamminck-542736262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thomasdevl) 
