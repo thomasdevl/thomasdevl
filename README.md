@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi there!<br>I’m currently in my final year of a Master’s in Computer Science at KU Leuven.<br>My thesis focuses on multi-target forecasting in time series with missing or noisy data.<br>I’m passionate about Machine Learning, Data Mining, and related fields that explore how data can drive intelligent systems.
 
+I push nearly all my code to Gitlab 😅
+
 Outside of my studies, I enjoy creative coding and experimenting with generative audio reactive visuals.
 I also make YouTube videos about TouchDesigner, where I share my experiments and creative projects. 
 Check out my youtube channel if this peeks your interest! 
