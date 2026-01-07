@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there!<br>I’m currently in my final year of a Master’s in Computer Science at KU Leuven.<br>My thesis focuses on multi-target forecasting in time series with missing or noisy data.<br>I’m passionate about Machine Learning, Data Mining, and related fields that explore how data can drive intelligent systems.
+👋 Hi there!<br>I’m currently in my final year of a Master’s in Computer Science at KU Leuven.<br>My thesis focuses on multi-target forecasting in time series for Predictive maintenance.<br>I’m passionate about Machine Learning, Data Mining, and related fields that explore how data can drive intelligent systems.
 
 I push nearly all my code to Gitlab 😅
 
